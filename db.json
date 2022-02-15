@@ -10,29 +10,5 @@
         "answerFour": "Yes",
         "answerFive": "Blah Blah Blah, Yes, It Just Works - Todd Howard"
       }
-    ],
-    "results": [
-        {
-          "id": 1,
-          "firstName": "Dominik",
-          "lastName": "Gibson",
-          "answerOne": "Yes, I totally Agree!",
-          "answerTwo": "It would be weird",
-          "answerThree": "Yes, It seems possible",
-          "answerFour": "Yes",
-          "answerFive": "Blah Blah Blah, Yes, It Just Works - Todd Howard"
-        }
-    ],
-    "format": [
-        {
-          "id": 1,
-          "firstName": "<First Name>",
-          "lastName": "<Last Name>",
-          "answerOne": "<Answer>",
-          "answerTwo": "<Answer>",
-          "answerThree": "<Answer>",
-          "answerFour": "<Answer>",
-          "answerFive": "<Answer>"
-        }
     ]
 }
